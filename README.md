@@ -24,7 +24,7 @@ A simple web scrapper for crawling and fetching youtube data for data analysis
 
 ## Run Locally
 
-Clone the project
+Clone the project, but first make sure you get a YouTube API KEY from Google
 
 ```bash
   git clone https://link-to-project
