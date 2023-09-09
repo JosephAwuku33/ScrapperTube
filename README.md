@@ -27,13 +27,13 @@ A simple web scrapper for crawling and fetching youtube data for data analysis
 Clone the project, but first make sure you get a YouTube API KEY from Google
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/JosephAwuku33/ScrapperTube.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd 'into new folder'
 ```
 
 Install dependencies
