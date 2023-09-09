@@ -1,0 +1,9 @@
+node_modules/
+npm-debug.log
+
+
+# environment variables
+.env 
+
+# generated files
+popular_videos_ghana.csv

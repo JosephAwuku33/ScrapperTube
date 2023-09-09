@@ -1,0 +1,23 @@
+{
+  "name": "youtube-scrapper",
+  "version": "1.0.0",
+  "description": "A youtube scraper for bossu Emma",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Joseph Amoako Awuku",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "csv-writer": "^1.6.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1",
+    "nodemon": "^3.0.1"
+  }
+}
